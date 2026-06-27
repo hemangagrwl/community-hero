@@ -1,0 +1,6 @@
+{
+  "name": "Community Hero",
+  "description": "A hyperlocal civic issue platform where citizens report problems and an AI agent pipeline takes each report to resolution.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
